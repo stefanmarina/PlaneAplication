@@ -1,0 +1,9 @@
+
+Bucuresti;Roma;25;16;23;11;2021
+Berlin;Roma;25;16;23;11;2021
+12;Berlin;Cazasu;25;16;23;11;2021
+2343;america;germania;23;43;23;8;2029
+3452;moldova;romania;43;5345;3687;54;7654
+2345;romania;germania;23;12;24;11;2022
+5436;Romania;Germania;23;13;25;11;2022
+5436;Romania;America;34;17;25;11;2022

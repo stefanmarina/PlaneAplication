@@ -40,13 +40,3 @@ astfel incat doar el sa aiba acces la acea cheie, in acest mod confirmanduise id
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-		%%%%%%%%%% Aplicatie avioane %%%%%%%%%%
-
-	- Punctele lipsa din aplicatie sunt datorita golurilor mele pe care nu le-am reusesc sa le acopar in accest timp. Acestea ar fi 
-alocarea dinamica si citirea din fisiere. As fi recunoscator daca mi-ai recomanda ceva de unde sa pot invata macar alocarea dinamica 
-pentru ca pana acum nu am gasit nimic care sa ma lamureasca cum sta treaba.
-	-Aplicatia mai are multe chestii care pot fi imbunatatite si chiar doresc sa le imbunatatesc, dupa ce reusesc sa inteleg cele
-2 chestii care nu mi-au mersi si din cauza carora nu am mai postat functiile de delete, search si book flight. Sunt constient ca voi avea 
-un punctaj mai mic din cauza acestora dar imi asum si imi promit sa reusesc sa le fac pe viitor.
